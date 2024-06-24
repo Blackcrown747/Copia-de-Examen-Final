@@ -66,49 +66,45 @@ Caso de Uso #4: Registro de estado de incidencia
 | ---------------- | --------------------------------------------------------------------------------------------------- |
 | Requerimientos relacionados         | R401          |
 | Código      | I401 |
-| Prototipo   | ![R401](https://github.com/Alexclb0/Holamundo/assets/164266999/9cdf7c07-27b2-4cc3-b576-9ac2389683b7)|
+| Prototipo   | ![image](https://github.com/Alexclb0/Holamundo/assets/164266999/19f371dd-9641-432a-be42-277e3a5aeff5)|
 
 |                  |                                                                                     |
 | ---------------- | --------------------------------------------------------------------------------------------------- |
 | Requerimientos relacionados         | R402       |
 | Código      | I402 |
-| Prototipo   | ![R402](https://github.com/Alexclb0/Holamundo/assets/164266999/24619fd5-47ed-4a3d-bba8-b5b3b7d63904)|
+| Prototipo   | ![image](https://github.com/Alexclb0/Holamundo/assets/164266999/d60ac6e0-63a1-442b-a8ad-cb4c5f553f57)
+|
 
 |                  |                                                                                     |
 | ---------------- | --------------------------------------------------------------------------------------------------- |
 | Requerimientos relacionados         | R403       |
 | Código      | I403 |
-| Prototipo   | ![I403](https://github.com/Alexclb0/Holamundo/assets/164266999/45c1ca0e-3ef6-4144-90cc-b59abe11e684)|
+| Prototipo   | ![image](https://github.com/Alexclb0/Holamundo/assets/164266999/b3f27df0-6695-4dea-9ffd-e92b6dde286f)|
 
 |                  |                                                                                     |
 | ---------------- | --------------------------------------------------------------------------------------------------- |
 | Requerimientos relacionados         | R403       |
 | Código      | I404 |
-| Prototipo   | ![I404](https://github.com/Alexclb0/Holamundo/assets/164266999/b466e32e-4415-4f81-bf46-35f6e0b22c18)|
+| Prototipo   | ![image](https://github.com/Alexclb0/Holamundo/assets/164266999/daa1d0bb-037f-431b-85c7-b8c02fc70725)|
 
 |                  |                                                                                     |
 | ---------------- | --------------------------------------------------------------------------------------------------- |
 | Requerimientos relacionados         | R403       |
 | Código      | I405 |
-| Prototipo   | ![I405](https://github.com/Alexclb0/Holamundo/assets/164266999/013d3635-7659-4656-8e46-75d7d298ede3)|
+| Prototipo   | ![image](https://github.com/Alexclb0/Holamundo/assets/164266999/9076b0dd-ac6e-4d68-a282-e7b3456107f0)|
 
 |                  |                                                                                     |
 | ---------------- | --------------------------------------------------------------------------------------------------- |
 | Requerimientos relacionados         | R403       |
 | Código      | I406 |
-| Prototipo   | ![I406](https://github.com/Alexclb0/Holamundo/assets/164266999/84b912d9-8e3e-43ef-8daa-cc4835a6b450)|
+| Prototipo   | ![image](https://github.com/Alexclb0/Holamundo/assets/164266999/b96ec223-9a34-4d13-8ab2-387a5b8aa16e)|
 
 |                  |                                                                                     |
 | ---------------- | --------------------------------------------------------------------------------------------------- |
 | Requerimientos relacionados         | R403, R404   |
 | Código      | I407 |
-| Prototipo   | ![I407](https://github.com/Alexclb0/Holamundo/assets/164266999/3bc9ccdb-40e9-4dda-bea0-03a954c754b0)|
+| Prototipo   | ![image](https://github.com/Alexclb0/Holamundo/assets/164266999/4fe0cbda-ba9d-496b-8b3f-856d9b24307c)|
 
-|                  |                                                                                     |
-| ---------------- | --------------------------------------------------------------------------------------------------- |
-| Requerimientos relacionados         | R404   |
-| Código      | I408 |
-| Prototipo   | ![I408](https://github.com/Alexclb0/Holamundo/assets/164266999/6808cc05-3860-4f85-8c8d-91d7226a1ea2)|
 
 
 ### 4. Sentencias SQL módulo de Control
