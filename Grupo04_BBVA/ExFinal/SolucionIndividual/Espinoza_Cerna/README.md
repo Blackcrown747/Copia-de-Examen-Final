@@ -7,13 +7,13 @@ Este repositorio contiene las evidencias solicitadas para el **Examen Final**.
 ```
 PC3/
 │
-├── 1_Justificación_Nube
+├── 1_Ingestión y Estructuración – BRONCE
 │   └── .....
 │
-├── 2_Seleccion_Cloud_Arquitectura
+├── 2_Transformación y Modelo Dimensional – PLATA y ORO
 │   └── .....
 │
-├── 3_Matrix_Costos
+├── 3_Visualización de KPIs – Dashboards
 │   └── ......
 │
 │
