@@ -1,1 +1,1 @@
-# Carga de archivos CSV
+# CSV originales cargados (sin modificar)
