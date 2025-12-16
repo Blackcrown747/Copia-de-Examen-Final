@@ -6,8 +6,7 @@ az storage fs create -n bronce --account-name bronze1 --auth-mode login
 ```
 az storage fs directory create -n raw -f bronce --account-name bronze1 --auth-mode login
 ```
-# 3. SUBIR EL ARCHIVO (Comando para la evidencia)
-# Asegúrate de cambiar la ruta de "--source" a donde tengas el archivo en TU compu
+# 3. SUBIR EL ARCHIVO 
 ```
 az storage fs file upload \
     --account-name bronze1 \
